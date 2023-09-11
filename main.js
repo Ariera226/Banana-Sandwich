@@ -22,7 +22,7 @@ function showhtml() {
 function showcss() {
   document.getElementById('fig').src = 'img/css3.jpg';
   document.getElementById('desc').innerHTML =
-    '<b>CSS</b>는 HTML 문서의 스타일을 지정하기 위한 언어다맨이야.';
+    '<b>CSS3</b>는 HTML 문서의 스타일을 지정하기 위한 언어다맨이야.';
 }
 
 function showjs() {
